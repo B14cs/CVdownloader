@@ -1,0 +1,170 @@
+{
+    "Information": {
+        "first_name": "Mohammed",
+        "second_name" : "Omer",
+        "third_name" : "",
+        "last_name": "Elgaily",
+        "summary": "Hello! I\u2019m Mohammed Elgaily. I am passionate about UI/UX design and Web Design. I am a skilled Front-end Developer and master of Graphic Design tools such as Photoshop and Sketch.",
+        "specialization": "Real estate finance specialist"
+    },
+
+    "Contact": {
+        "email": "mbajily@gmail.com",
+        "phone1": "0501026173",
+        "phone2": "0502039403",
+        "location": "Riyadh"
+    },
+
+    "Education": [
+        {
+            "title": "Science and Mathematics",
+            "istitution": "Mt. High Scool",
+            "description": "User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.",
+            "start_date": "2011-06-24",
+            "end_date": "2014-04-03"
+        },
+        {
+            "title": "Bachelor of Computer Science",
+            "istitution": "Regional College",
+            "description": "Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.",
+            "start_date": "2007-06-05",
+            "end_date": "2011-06-24"
+        },
+        {
+            "title": "Masters in Information Technology",
+            "istitution": "International University",
+            "description": "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.",
+            "start_date": "1995-06-05",
+            "end_date": "2007-06-05"
+        }
+    ],
+
+    "Experience": [
+        {
+            "title": "Junior shit saleer",
+            "company": "Indie Studio",
+            "description": "User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment. User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment. User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.",
+            "start_date": "2021-06-24",
+            "end_date": "PRESENT"
+        },
+        {
+            "title": "Junior Web Developer",
+            "company": "Indie Studio",
+            "description": "User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment. User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.",
+            "start_date": "2014-06-24",
+            "end_date": "2021-04-03"
+        },
+        {
+            "title": "Graphic Designer",
+            "company": "Design Studio",
+            "description": "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.",
+            "start_date": "2011-06-24",
+            "end_date": "2014-04-03"
+        },
+        {
+            "title": "Frontend Developer ",
+            "company": "Creative Agency",
+            "description": "Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.",
+            "start_date": "2007-06-05",
+            "end_date": "2011-06-24"
+        }
+    ],
+    
+    "Courses": [
+        {
+            "title": "Django Developer",
+            "istitution": "Udemy",
+            "description": "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.",
+            "date": "2021-05-27",
+            "total_hours": "10"
+        },
+        {
+            "title": "Full-Stack Web Developer",
+            "istitution": "edX", 
+            "description": "User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.",
+            "date": "2018-02-04",
+            "total_hours": "23"
+        },
+        {
+            "title": "Become a Software Developer",
+            "istitution": "LinkedIn Learning",
+            "description": "Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.",
+            "date": "2011-01-03",
+            "total_hours": "12"
+        }
+    ],
+    "Cog": [
+        {
+            "title": "Django Developer",
+            "istitution": "Udemy",
+            "description": "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.",
+            "date": "2021-05-27",
+            "total_hours": "10"
+        },
+        {
+            "title": "Full-Stack Web Developer",
+            "istitution": "edX", 
+            "description": "User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.",
+            "date": "2018-02-04",
+            "total_hours": "23"
+        },
+        {
+            "title": "Full-Stack Web Developer",
+            "istitution": "edX", 
+            "description": "User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.",
+            "date": "2018-02-04",
+            "total_hours": "23"
+        },
+        {
+            "title": "Full-Stack Web Developer",
+            "istitution": "edX", 
+            "description": "User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.",
+            "date": "2018-02-04",
+            "total_hours": "23"
+        }],
+
+    "Skills": [
+        "HTML/CSS",
+        "JavaScript",
+        "Python (Django, Flask)",
+        "ReactJS",
+        "Node.js",
+        "Ruby on Rails",
+        "API development",
+        "Database design and management",
+        "Cloud computing platforms: AWS, Azure, Google Cloud Platform",
+        "Containerization technologies: Docker, Kubernetes",
+        "Version control systems: Git",
+        "Agile methodology",
+        "API development",
+        "Database design and management",
+        "Cloud computing platforms: AWS, Azure, Google Cloud Platform",
+        "Containerization technologies: Docker, Kubernetes",
+        "Version control systems: Git",
+        "Agile methodology"
+    ],
+
+    "Coggg": [
+        {
+            "title": "Django Developer",
+            "istitution": "Udemy",
+            "description": "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.",
+            "date": "2021-05-27",
+            "total_hours": "10"
+        },
+        {
+            "title": "Full-Stack Web Developer",
+            "istitution": "edX", 
+            "description": "User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.",
+            "date": "2018-02-04",
+            "total_hours": "23"
+        },
+        {
+            "title": "Become a Software Developer",
+            "istitution": "LinkedIn Learning",
+            "description": "Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.",
+            "date": "2011-01-03",
+            "total_hours": "12"
+        }
+    ]
+}
