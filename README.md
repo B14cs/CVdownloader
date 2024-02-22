@@ -16,11 +16,11 @@ To use this script, you need to have the following libraries installed:
 <ol>
 <li>Clone the repository:</li>
 
-`git clone https://github.com/B14cs/CVdownloader.git`
+`git clone https://github.com/B14cs/Resume-builder.git`
 
 <li>Navigate to the project directory:</li>
 
-`cd CVdownloader`
+`cd Resume-builder`
 
 <li>Install the required packages:</li>
 
